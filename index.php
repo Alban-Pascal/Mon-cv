@@ -20,7 +20,7 @@
             <div class="container">
                 <div class="picture-resume-wrapper">
                     <div class="picture-resume">
-                        <span><img src="https://gravatar.com/avatar/3442dc3c2ed4a3789becedf6c336c7ba?d=https%3A%2F%2Fassets.codepen.io%2Finternal%2Favatars%2Fusers%2Fdefault.png&fit=crop&format=auto&height=80&version=0&width=80" alt="" /></span>
+                        <span><img src="https://drive.google.com/file/d/1F09lZEiVfH5DWzaojRhvK7w01ombC4bj/view?usp=sharing" alt="" /></span>
                         <svg version="1.1" viewBox="0 0 350 350">
 
                             <defs>
@@ -60,7 +60,6 @@
                     <ul class="list-titles">
                         <li>Call</li>
                         <li>Mail</li>
-                        <li>Web</li>
                         <li>Home</li>
                     </ul>
                     <ul class="list-content ">
@@ -137,7 +136,7 @@
                 <div class="job-wrapper clearfix">
                     <div class="experience-title">ASSISTANT DE RESPONSABLE DE PRODUCTION</div>
                     <div class="company-description">
-                        <p>Etc </p>
+                        <p>Liaison entre les ateliers et les bureaux (planning, administratif, respect qualité et délais, délocalisation) </p>
                     </div>
                 </div>
 
