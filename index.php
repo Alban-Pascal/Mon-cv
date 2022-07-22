@@ -90,7 +90,7 @@
                 </div>
                 <div class="contact-social clearfix">
                     <ul class="list-titles">
-                        <li>Bachelor Marketing Digital</li>
+                        <li>Studi Graduate Développeur web full stack</li>
                         <li>Master InfoCom</li>
                     </ul>
                     <ul class="list-content">
