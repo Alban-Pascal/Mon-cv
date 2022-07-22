@@ -74,14 +74,10 @@
                 </div>
                 <div class="contact-social clearfix">
                     <ul class="list-titles">
-                        <li>Twitter</li>
-                        <li>Dribbble</li>
-                        <li>Codepen</li>
+                        <li>Linkedin</li>
                     </ul>
                     <ul class="list-content">
-                        <li><a href="">Compte Twitter</a></li>
-                        <li><a href="">Compte Dribbble</a></li>
-                        <li><a href="">Compte Codepen</a></li>
+                        <li><a href="https://www.linkedin.com/in/alban-pascal-b2b6381a7/">Compte Codepen</a></li>
                     </ul>
                 </div>
                 <br />
@@ -91,12 +87,11 @@
                 <div class="contact-social clearfix">
                     <ul class="list-titles">
                         <li>Studi Graduate Développeur web full stack</li>
-                        <li>Master InfoCom</li>
+                        <li>Lycée Algoud-Laffemas niveau bac Génie électrotechnique</li>
                     </ul>
                     <ul class="list-content">
-                        <!-- REMEMBER TO PUT THE URL ON THE HREF TAG  -->
-                        <li><a href="">Nom école + lien vers école</a></li>
-                        <li><a href="">Nom école + lien vers école</a></li>
+                        <li><a href="https://www.studi.com/fr">Studi</a></li>
+                        <li><a href="https://algoud-laffemas.ent.auvergnerhonealpes.fr/">Lycée Algoud-Laffemas</li>
 
                     </ul>
                 </div>
@@ -109,84 +104,100 @@
 
                 <div class="experience-wrapper">
                     <div class="company-wrapper clearfix">
-                        <div class="experience-title">Infosys Ltd</div> <!-- NAME OF THE COMPANY YOUWORK WITH  -->
-                        <div class="time">Sept 2016 - Present</div> <!-- THE TIME YOU WORK WITH THE COMPANY  -->
+                        <div class="experience-title">Studi</div>
+                        <div class="time">2022 - present </div>
                     </div>
 
                     <div class="job-wrapper clearfix">
-                        <div class="experience-title">Front End Developer </div> <!-- JOB TITLE  -->
-                        <div class="company-description">
-                            <p>Etc</p> <!-- JOB DESCRIPTION  -->
-                        </div>
+                        <div class="experience-title">Graduate Développeur web full stack </div>
+                        <p>Actuellement en formation, Graduate Développeur web full stack</p>
                     </div>
-
-                    <div class="company-wrapper clearfix">
-                        <div class="experience-title">Xchanging Technologies</div> <!-- NAME OF THE COMPANY YOUWORK WITH  -->
-                        <div class="time">Aug 2015 - Aug 2016</div> <!-- THE TIME YOU WORK WITH THE COMPANY  -->
-                    </div>
-
-                    <div class="job-wrapper clearfix">
-                        <div class="experience-title">Web Developer</div> <!-- JOB TITLE  -->
-                        <div class="company-description">
-                            <p>Etc </p> <!-- JOB DESCRIPTION  -->
-                        </div>
-                    </div>
-
-                    <div class="company-wrapper clearfix">
-                        <div class="experience-title">HCL SERVICES LTD</div> <!-- NAME OF THE COMPANY YOUWORK WITH  -->
-                        <div class="time">JAN 2014 - JUL 2015</div> <!-- THE TIME YOU WORK WITH THE COMPANY  -->
-                    </div>
-
-                    <div class="job-wrapper clearfix">
-                        <div class="experience-title">UI DEVELOPER/LAMP </div> <!-- JOB TITLE  -->
-                        <div class="company-description">
-                            <p>Etc</p> <!-- JOB DESCRIPTION  -->
-                        </div>
-                    </div>
-
-                    <div class="company-wrapper clearfix">
-                        <div class="experience-title">Art tech Services</div> <!-- NAME OF THE COMPANY YOUWORK WITH  -->
-                        <div class="time">Sept 2012 - Jan 2014</div> <!-- THE TIME YOU WORK WITH THE COMPANY  -->
-                    </div>
-
-                    <div class="job-wrapper clearfix">
-                        <div class="experience-title">Freelance, Web Designer / Web Developer, IT-admin </div> <!-- JOB TITLE  -->
-                        <div class="company-description">
-                            <p>Etc</p> <!-- JOB DESCRIPTION  -->
-                        </div>
-                    </div>
-
-                </div>
-                <!--Skill experience-->
-
-                <div class="section-wrapper clearfix">
-                    <h3 class="section-title">Skills</h3> <!-- YOUR SET OF SKILLS  -->
-                    <ul>
-                        <li class="skill-percentage">HTML / HTML5</li>
-                        <li class="skill-percentage">CSS / CSS3 / BOOTSTRAP</li>
-                        <li class="skill-percentage">Javascript</li>
-                        <li class="skill-percentage">Jquery</li>
-                        <li class="skill-percentage">AngularJS</li>
-                        <li class="skill-percentage">Photoshop</li>
-                        <li class="skill-percentage">BASIC PHP</li>
-                        <li class="skill-percentage">BASIC MYSQL</li>
-                        <li class="skill-percentage">BASIC LINUX</li>
-                        <li class="skill-percentage">GIT/GITHUB</li>
-                        <li class="skill-percentage">GULP/GRUNT</li>
-                    </ul>
                 </div>
 
-                <div class="section-wrapper clearfix">
-                    <h3 class="section-title">Hobbies</h3> <!-- DESCRIPTION OF YOUR HOBBIES -->
-                    <p>Etc</p>
 
-                    <p>Etc</p>
+
+                <div class="experience-wrapper">
+                    <div class="company-wrapper clearfix">
+                        <div class="experience-title">Fiter</div>
+                        <div class="time">2015 - 2022 </div>
+                    </div>
+
+                    <div class="job-wrapper clearfix">
+                        <div class="experience-title">CHEF D’ÉQUIPE PRODUCTION </div>
+                        <p>Encadrer et manager une équipe de 10 à 15 personnes, composée d'opérateurs de production, de conducteurs de machines et de conducteurs de ligne.
+                            Participer à l'intégration, la formation et être garant de l'évaluation des nouveaux collaborateurs.</p>
+                    </div>
+                </div>
+
+                <div class="company-wrapper clearfix">
+                    <div class="experience-title">Epoxy 3000</div>
+                    <div class="time">2011 - 2015</div>
+                </div>
+
+                <div class="job-wrapper clearfix">
+                    <div class="experience-title">ASSISTANT DE RESPONSABLE DE PRODUCTION</div>
+                    <div class="company-description">
+                        <p>Etc </p>
+                    </div>
+                </div>
+
+                <div class="company-wrapper clearfix">
+                    <div class="experience-title">Epoxy 3000</div>
+                    <div class="time">2010 - 2012</div>
+                </div>
+
+                <div class="job-wrapper clearfix">
+                    <div class="experience-title">RESPONSABLE QUALITÉ </div>
+                    <div class="company-description">
+                        <p>Contrôle et vérification de la conformité des pièces par rapport
+                            au cahier des charges</p>
+                    </div>
+                </div>
+
+                <div class="company-wrapper clearfix">
+                    <div class="experience-title">Epoxy 3000</div>
+                    <div class="time">2004 - 2010</div>
+                </div>
+
+                <div class="job-wrapper clearfix">
+                    <div class="experience-title">CHEF D’ÉQUIPE</div>
+                    <div class="company-description">
+                        <p>Gestion d’une équipe de 5 personnes, respect du planning,
+                            ouverture et fermeture de l’entreprise</p>
+                    </div>
                 </div>
 
             </div>
-        </section>
 
-        <div class="clearfix"></div>
+
+            <div class="section-wrapper clearfix">
+                <h3 class="section-title">Skills</h3>
+                <ul>
+                    <li class="skill-percentage">HTML / HTML5</li>
+                    <li class="skill-percentage">CSS / CSS3 / BOOTSTRAP</li>
+                    <li class="skill-percentage">Javascript</li>
+                    <li class="skill-percentage">Jquery</li>
+                    <li class="skill-percentage">AngularJS</li>
+                    <li class="skill-percentage">Photoshop</li>
+                    <li class="skill-percentage">BASIC PHP</li>
+                    <li class="skill-percentage">BASIC MYSQL</li>
+                    <li class="skill-percentage">BASIC LINUX</li>
+                    <li class="skill-percentage">GIT/GITHUB</li>
+                    <li class="skill-percentage">GULP/GRUNT</li>
+                </ul>
+            </div>
+
+            <div class="section-wrapper clearfix">
+                <h3 class="section-title">Hobbies</h3>
+                <p>dev web</p>
+                <P>skeatboard</P>
+                <p>Snowboard</p>
+            </div>
+
+    </div>
+    </section>
+
+    <div class="clearfix"></div>
     </div>
     <script src="" async defer></script>
 </body>
